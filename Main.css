@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+head{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+body {
+    background-image: url(tregezzed.jpg);
+    background-position: 100%;
+    background-size: auto;
+    width: 500px;
+    width: auto;
+    height: 500px;
+}
+.container{
+    max-width: 540px;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 5px solid gray;
+    border-radius: 30px;
+}
+
+#surname {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#surname input {
+    justify-content: center;
+    width: 250px;
+}
+
+#middle {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#middle input {
+    justify-content: center;
+    width: 250px;
+}
+
+#last {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#last input {
+    justify-content: center;
+    width: 250px;
+}
+
+#pass {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#pass input {
+    justify-content: center;
+    width: 250px;
+}
+
+#Emial {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#Emial input {
+    justify-content: center;
+    width: 250px;
+}
+
+#date {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#date input {
+    justify-content: center;
+    width: 250px;
+}
+
+#log {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+#log input {
+    justify-content: center;
+    width: 250px;
+    background-color: blue;
+}
+#header {
+    justify-content: center;
+    width: 450px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin: auto;
+    border-radius: 30px;
+}
+#del {
+    background-color: red;
+}
+#login {
+    background-color: blue;
+    width: 300px;
+    border-radius: 20px;
+}
+a{
+    color: aqua;
+}
